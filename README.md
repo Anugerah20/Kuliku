@@ -1,3 +1,3 @@
 # Kuliku
 
-Membuat website Properti Perumahan
+Kuliku adalah website Properti Perumahan yang simpel dan menarik.
